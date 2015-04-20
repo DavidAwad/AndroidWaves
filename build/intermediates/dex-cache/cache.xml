@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/david/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/david/Desktop/TestLibMuseAndroid/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-a3f05575a59273c6372b0cbf5f2b1d3a2fa8b0bd.jar" />
+    </item>
+    <item
+        jar="/Users/david/Desktop/TestLibMuseAndroid/app/libs/libmuseandroid.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29c9db643c9cd140b86ad1788d6b9fdf96983037">
+        <dex dex="/Users/david/Desktop/TestLibMuseAndroid/app/build/intermediates/pre-dexed/debug/libmuseandroid-72f2a356566a07f585f1bd1810893ca67ecaab33.jar" />
+    </item>
+    <item
+        jar="/Users/david/Desktop/TestLibMuseAndroid/app/libs/GraphView-4.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="20768335ab718b2a912f9155f9d1893d5fc931ce">
+        <dex dex="/Users/david/Desktop/TestLibMuseAndroid/app/build/intermediates/pre-dexed/debug/GraphView-4.0.0-cf3598de4af535e4c17a1c8e30a4ba6bf1445b07.jar" />
+    </item>
+    <item
+        jar="/Users/david/Desktop/TestLibMuseAndroid/app/libs/achartengine-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="75277dbcf10e93cc38648e48b353597fbb14069a">
+        <dex dex="/Users/david/Desktop/TestLibMuseAndroid/app/build/intermediates/pre-dexed/debug/achartengine-1.2.0-14dd02572bacf5b2fbc2270f8ba32444112e40db.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,5 @@
+/Users/david/Desktop/TestLibMuseAndroid/app/build/intermediates/classes/debug
+/Users/david/Desktop/TestLibMuseAndroid/app/build/intermediates/pre-dexed/debug/libmuseandroid-72f2a356566a07f585f1bd1810893ca67ecaab33.jar
+/Users/david/Desktop/TestLibMuseAndroid/app/build/intermediates/pre-dexed/debug/GraphView-4.0.0-cf3598de4af535e4c17a1c8e30a4ba6bf1445b07.jar
+/Users/david/Desktop/TestLibMuseAndroid/app/build/intermediates/pre-dexed/debug/achartengine-1.2.0-14dd02572bacf5b2fbc2270f8ba32444112e40db.jar
+/Users/david/Desktop/TestLibMuseAndroid/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-a3f05575a59273c6372b0cbf5f2b1d3a2fa8b0bd.jar
